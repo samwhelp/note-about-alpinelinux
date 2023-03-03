@@ -1,7 +1,7 @@
 
 # 首頁
 
-| [Alpine Linux 探索筆記](https://samwhelp.github.io/note-about-hyprland/) | [GitHub](https://github.com/samwhelp/note-about-hyprland) |
+| [Alpine Linux 探索筆記](https://samwhelp.github.io/note-about-alpinelinux/) | [GitHub](https://github.com/samwhelp/note-about-alpinelinux) |
 
 
 ## Alpine Linux
